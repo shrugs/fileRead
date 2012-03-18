@@ -1,21 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# by Karakth
+# by MattCMultimedia
 
 import random
 from plugin import *
 import os
 import re
-
-from siriObjects.uiObjects import AddViews, AssistantUtteranceView
-from siriObjects.baseObjects import AceObject, ClientBoundCommand
-from siriObjects.systemObjects import DomainObject
-from siriObjects.answerObjects import AnswerObject, AnswerObjectLine, AnswerSnippet
-
-# add any other siriObjects imports here
-
-#any needed api keys go here
-
 
 #change this to be to path to your text files including a final "/" 
 #ex:  /siriservercore/plugins/fileRead/
