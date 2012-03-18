@@ -10,11 +10,8 @@ No, I don't know a practical use for this yet, although I suppose you could moni
 
 Current commands: switch file, write to file, read file, new file, check file
 
-<<<<<<< HEAD
 "write file"" overwrites files, so I would stray away from using it on important things.
 
-=======
->>>>>>> 0eb419d06b4939446a6aca1dada76cd1657e8225
 __
 
 To install:
