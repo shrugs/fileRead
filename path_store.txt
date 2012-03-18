@@ -1,0 +1,1 @@
+/siriservercore/plugins/fileRead/testing.txt
