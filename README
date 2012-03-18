@@ -1,0 +1,28 @@
+Readme for fileRead
+
+This is my first functioning plugin for SiriServerCore. Website for SiriServerCore: 
+
+https://github.com/Eichhoernchen/SiriServer
+
+Basically, you need to change the file path to suit your system and file locations.
+
+No, I don't know a practical use for this yet, although I suppose you could monitor log files or something.
+
+Current commands: switch file, write to file, read file, new file, check file
+
+<<<<<<< HEAD
+"write file"" overwrites files, so I would stray away from using it on important things.
+
+=======
+>>>>>>> 0eb419d06b4939446a6aca1dada76cd1657e8225
+__
+
+To install:
+
+1) download folder, add to /siriservercore/plugins
+
+2) add "fileRead" (without quotes) to plugins.conf
+
+3) open fileRead/__init__.py
+
+3b) change path_to_files to the location of the files you would like to moni
